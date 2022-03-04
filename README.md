@@ -1,4 +1,6 @@
 # Codefresh example of Ruby on Rails
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flycbrian%2Fgitaction-test.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flycbrian%2Fgitaction-test?ref=badge_shield)
+
 
 Original version is at 	https://bitbucket.org/railstutorial/sample_app_4th_ed.git
 
@@ -17,6 +19,9 @@ This is the reference implementation of the sample application for the 4th editi
 ## License
 
 All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/) is available jointly under the MIT License and the Beerware License. See [LICENSE.md](LICENSE.md) for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flycbrian%2Fgitaction-test.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flycbrian%2Fgitaction-test?ref=badge_large)
 
 ## Getting started
 
